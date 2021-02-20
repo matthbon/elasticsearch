@@ -38,7 +38,7 @@ See [Full Documentation](https://github.com/basemkhirat/elasticsearch/wiki/1.-In
 ##### 1) Install package using composer.
 
 ```bash
-$ composer require basemkhirat/elasticsearch
+$ composer require matthbon/elasticsearch
 ```
 
 ##### 2) Add package service provider (< laravel 5.5).
@@ -63,7 +63,7 @@ $ php artisan vendor:publish --provider="Basemkhirat\Elasticsearch\Elasticsearch
 
 ##### 1) Install package using composer.
 ```bash
-$ composer require basemkhirat/elasticsearch
+$ composer require matthbon/elasticsearch
 ```
 
 ##### 2) Add package service provider in `bootstrap/app.php`.
@@ -98,7 +98,7 @@ You can install package with any composer-based applications
 ##### 1) Install package using composer.
 
 ```bash
-$ composer require basemkhirat/elasticsearch
+$ composer require matthbon/elasticsearch
 ```
 
 ##### 2) Creating a connection.
